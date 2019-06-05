@@ -50,6 +50,7 @@ namespace JacksOrBetter
                         }
                     }
                 }
+                else { break; }
                 informationDisplay();//display information
             } while ((selection = userInput()) != 6);// loops while enter isn't pressed
             for (int i = 0; i < cardsToChange.Count; i++)//Loops selected cards
