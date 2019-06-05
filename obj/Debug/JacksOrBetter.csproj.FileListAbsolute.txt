@@ -1,0 +1,7 @@
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\bin\Debug\JacksOrBetter.exe.config
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\bin\Debug\JacksOrBetter.exe
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\bin\Debug\JacksOrBetter.pdb
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\obj\Debug\JacksOrBetter.csprojAssemblyReference.cache
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\obj\Debug\JacksOrBetter.csproj.CoreCompileInputs.cache
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\obj\Debug\JacksOrBetter.exe
+C:\Users\juliu\source\repos\JacksOrBetter\JacksOrBetter\obj\Debug\JacksOrBetter.pdb
